@@ -1,7 +1,7 @@
 # Ada_Tech_DS_PY_004
 Primeira publicaçao a partir do GitHub Desktop
 
-Criação de um arquivo compartilhado do tipo ".csv" para a turma DS1119, curso Engenharia de Dados, bolsa Santander Coders/ADA Tech 23.2
+Criação de um arquivo compartilhado do tipo ".csv" para a turma DS1180, curso Engenharia de Dados, bolsa Santander Coders/ADA Tech 24.2
 Orientações:
 
 1. Criar uma branch própria.
