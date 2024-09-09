@@ -2,7 +2,8 @@
 Primeira publicaçao a partir do GitHub Desktop
 
 Criação de um arquivo compartilhado do tipo ".csv" para a turma DS1180, curso Engenharia de Dados, bolsa Santander Coders/ADA Tech 24.2
-<br>
+
+
 Orientações:
 
 1. Criar uma branch própria.
